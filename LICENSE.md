@@ -1,0 +1,1 @@
+packages/state-composer/LICENSE.md
