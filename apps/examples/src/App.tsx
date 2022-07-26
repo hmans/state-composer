@@ -1,7 +1,7 @@
-import { useState } from "react"
+import { Game } from "./game/Game"
 
 function App() {
-	return <p>Hi</p>
+	return <Game />
 }
 
 export default App
